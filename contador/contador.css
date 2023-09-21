@@ -1,0 +1,38 @@
+body{
+    background-color: darkcyan;
+}
+
+main{
+    height: 100%;
+    width: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+span{
+    background-color: #fff;
+    color: black;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 50px;
+}
+
+button{
+    border: none;
+    width: 150px;
+    height: 56px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+}
+
+
+
